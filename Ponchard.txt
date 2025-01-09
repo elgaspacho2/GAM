@@ -1,0 +1,68 @@
+77  cd /
+78  cd /home/user/Document/Git4
+79  git clone https://github.com/elgaspacho2/GAM.git
+80  ls
+81  cd GAM
+82  ls
+83  git branch
+84  git branch HTML
+85  git pull HTML
+86  ls
+87  git add README.md
+88  git commit -m "Changement fichier README"
+89  git config user.email "hugo.nia.bra@gmail.com"
+90  git config user.name "user1284Y3"
+91  git commit -m "Changement fichier README"
+92  git push origin main
+93  touch Index.html
+94  git add Index.html
+95  git push origin HTML
+96  git checkout main
+97  nano Index.html
+98  ls
+99  git checkout HTML
+100 git branch js
+101 git checkout js
+102 git pull origin js
+103 ls
+104 ls -a
+105 touch Index.js
+106 hit add Index.js
+107 git add Index.js
+108 git commit -m "creation du js"
+109 git push origin js
+110 git config user.email "hugo.nia.bra@gmail.com"
+111 git config user.name "user1284Y3"
+112 git commit -m "creation du js"
+113 git push origin js
+114 nano Index.js
+115 ls
+116 pwd
+117 git push origin html
+118 git push origin js
+119 ls
+120 nano html
+121 nano js
+122 git push origin html
+123 ls
+124 cd ..
+125 ls
+126 cd /home/user/Documents/Git4
+127 ls
+128 cd GAM/
+129 ls
+130 rm css
+131 ls
+132 git add css
+133 git commit -m "css"
+134 git push -u origin HTML
+135 git push -u origin js
+136 cat bash.history
+137 history
+138 git checkout -b Commandes
+139 git push -u origin Commandes
+140 ls
+141 touch Ponchard
+142 ls
+143 nano Ponchard
+144 history
