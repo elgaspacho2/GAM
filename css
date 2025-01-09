@@ -1,19 +1,103 @@
-{
-    margin: 0;
-    padding: 0;
-
-}
 body{
-    display: flex;
-    flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
-html{   background-image: url(../images/background.png);
-    background-repeat: repeat;
-    background-attachment: fixed;
-    background-position: center; 
-   }
 
-main{
-    display: flex;
-    flex-wrap: wrap;
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #0077cc;
+  color: #fff;
+  padding: 1px 2px;
+}
+
+header .logo h1 {
+  font-size: 20px;
+}
+
+header nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+header nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+header nav ul li a:hover {
+  text-decoration: underline;
+}
+
+main {
+  padding: 20px;
+  text-align: center;
+}
+
+main h2 {
+  margin-bottom: 20px;
+  color: #0077cc;
+}
+
+.produit {
+  display: grid;
+  gap: 20px;
+}
+
+.produit1 {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.produit1 h3 {
+  margin: 10px 0 5px;
+  color: #333;
+}
+
+.produit1 p {
+  font-size: 20px;
+  margin: 5px 0;
+}
+
+.produit1 .price {
+  font-size: 19px;
+  color: #0077cc;
+  font-weight: bold;
+  margin: 1rem 0;
+}
+
+.produit1 button {
+  background-color: #0077cc;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.produit button:hover {
+  background-color: #005fa3;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  margin-top: 20px;
 }
