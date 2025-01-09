@@ -1,0 +1,500 @@
+sudo pacman -S vkd3d
+sudo pacman -S nvidia-utils
+vulkaninfo | less
+neofetch
+sudo pacman -S vulkan-intel
+sudo pacman -Rsu protonup-qt
+sudo pacman -Rs protonup-qt
+sudo pacman -R protonup-qt
+sudo pacman -Syu protonup-qt
+yay -Syu protonup-qt
+protonup-qt
+sudo pacman -S qt5-base qt5-declarative
+protonup-qt
+sudo pacman -Rsu lutris steam protonup-qt
+sudo pacman -R lutris steam protonup-qt
+cd main
+git status
+git commit -m "ajout de en sah"
+checkout main
+git checkout main
+git status
+git commit -m "oui"
+git add 'exemple pull'
+git status
+git commit -m "oui"
+git checkout variante
+git status
+git commit -m "rerty"
+git checkout main
+sudo pacman -Syu
+git init main2
+git
+cd main2
+git add fichier2.txt
+nano fichier.txt
+git add fichier.txt
+git status
+git remote add origin https://github.com/elgaspacho2/Kurwa.git
+git remote add origin https://github.com/elgaspacho2/main2.git
+git remote remove  origin https://github.com/elgaspacho2/main2.git
+git remote remove  origin https://github.com/elgaspacho2/main2.git
+git remote remove origin https://github.com/elgaspacho2/main2.git
+git status
+git rm --cached main
+git remote remove origin
+cd
+git init main
+nano fichier.txt
+git status
+cd main
+nano fichier.txt
+git status
+git add fichier.txt
+git remote remove origin https://github.com/elgaspacho2/main.git
+git remote add origin https://github.com/elgaspacho2/main.git
+commit -m "premier commit"
+git commit -m "premier commit"
+git push -u origin main
+git push -u origin main
+git config --global user.mail "el_gaspacho@protonmail.com"
+git config --global user.name "gas"
+git commit -m "1st Commit"
+git status
+git status
+git add fichier.txt
+git status
+git push origin main
+cd git
+cd .git
+ls
+nano README.md
+nano LICENCE.md
+rm..
+rm .
+cd ..
+touch .gitignore
+git push origin main
+git commit -m "2nd commit"
+git push origin main
+git add LICENCE.md README.md .gitignore
+git commit -m "fichiers"
+git push origin main
+git add fichier.txt
+git status
+git commit -m "ouioui"
+git push origin main
+git pull origin master
+git pull origin main
+ls
+nano exemple pull
+nano 'exemple pull'
+git branch
+git branche variante
+git branch variante
+git branch
+git checkout variante
+git checkout main
+git checkout variante
+git add 'exemple pull'
+nano 'exemple pull'
+git checkout main
+ls
+nano 'exemple pull'
+ls
+git checkout variante
+ls
+nano 'exemple pull'
+git branch
+git less
+git refs
+sudo git branch
+git push origin variante
+git pull origin main
+git pull origin variante
+git push origin variante
+git branch
+git status
+git branch -M
+git checkout -b -test
+git version
+git checkout variante
+git branch
+git branch
+cd main
+git branch
+ls
+git branch -l
+cd
+ls
+cd main
+ls
+cd .git
+git branch
+cd ..
+git log
+git init
+git branch
+ls
+man less
+less --l
+less --help
+pager --help
+man pager
+killall
+killall pager
+pacman -S pager
+sudo pacman -S pager
+sudo pacman -S man-db
+git bracnh
+git branch
+git branch
+git merge
+checkout main
+git merge
+git merge variante
+git checkout -b branche1
+echo "tgfdpdm" > fichier2.txt
+git add fichier2.txt
+git commit -m "ajout d'un fichier.txt dans branche 1"
+git checkout -b branche1
+git checkout -b branche2
+git merge branche1
+git log branche1 --oneline
+git log branche2 --oneline
+git diff branche1 branche2
+git push origin main
+git --hrlp
+git --help
+git rm main
+cd
+git rm main
+git init Principal
+nano fichier.txt
+cd Principal
+git add fichier.txt
+git add fichier.txt
+git status
+git remote add origin https://github.com/elgaspacho2/Principal.git
+commit -m "1st commit"
+git commit -m "1st commit"
+git push origin Principal
+git remote add origin https://github.com/elgaspacho2/Principal.git
+git push origin Principal
+git push origin Principal
+clear
+git remote add origin https://github.com/elgaspacho2/Principal.git
+cd
+ls
+ls ./
+ls .
+git init main
+cd main
+nano fichier.txt
+nano README.md
+nano LICENSE.md
+touch .gitignore
+git add .gitignore README.md LICENSE.md fichier.txt
+git status
+git commit -m "1st Commit"
+git remote add origin https://github.com/elgaspacho2/main.git
+git push -u origin main
+ls
+git branch
+git checkout branche1
+git checkout --orphan branche1
+git rm -rf
+ls
+git branch
+git branch -b branche1
+git checkout -b branche1
+ls
+git branch -D branche1
+sudo git branch -D branche1
+git branch
+git checkout main
+checkout branche1
+git checkout branche1
+git checkout branche 1
+git status
+git branch
+git checkout -b branche2
+git status
+git checkout branche1
+git status
+git checkout -b branche2.1
+git branch
+git checkout main
+git checkout branche2.1
+nano fichier2.1.txt
+add fichier2.1.txt
+git add fichier2.1.txt
+git status
+git commit -m "2nd Commit : Création branche et fichier2.2.txt"
+git push -u origin main
+cd
+git init main
+cd main
+ls
+git remote add origin https://github.com/elgaspacho2/main.git
+ls
+git pull origin main
+git pull origin main
+git pull origin main
+l
+ls
+git init main
+cd
+git init main
+cd main
+nano fichier.txt
+git add fichier.txt
+git status
+nano LICENSE.md
+nano README.md
+touch .gitignore
+git commit -m "1st Commit"
+git status
+git add .gitignore LICENSE.md README.md
+git commit -m "1st Commit"
+git remote add origin https://github.com/elgaspacho2/main.git
+git push -u origin main
+git checkout -b branche1
+git status
+git branch
+git checkout -b branche1.1
+ls
+git branch
+git checkout main
+git checkout branche1
+git checkout branche1.1
+ls
+cd
+sudo pacman -S lutris
+sudo pacman -S steam
+sudo pacman -R steam lutris
+pizza
+cd main
+git push origin -u
+git checkout main
+git push -u origin branche1
+git push -u origin branche1.1
+cd
+git init Projet_HTML
+cd Projet_HTML/
+nano LICENSE.txt
+rm LICENSE.txt
+nano LICENSE.md
+nano README.md
+touch .gitignore
+git add LICENSE.md README.md .gitignore
+git status
+git commit -m  "Création des fichiers Licence et README et dossier .gitignore"
+git remote add origin https://github.com/elgaspacho2/Projet_HTML.git
+git push -u origin Projet_HTML
+git push -u origin main
+git push -u origin Projet_HTML
+
+git remote add origin https://github.com/elgaspacho2/Projet_HTML.git
+git push -u origin Projet_HTML
+cd
+cd Projet_HTML/
+git push -u origin main
+ls
+cd
+git init GAM
+cd GAM
+nano LICENSE.md
+nano README.md
+touch .gitignore
+git add LICENSE.md README.md .gitignore
+git status
+git remote add origin git remote add origin https://github.com/elgaspacho2/GAM.git
+git remote add origin https://github.com/elgaspacho2/GAM.git
+git commit -m "Création fichiers README.md et LICENSE.md, création du dossier .gitignore"
+git push -u origin GAM
+git push -u origin main
+git branch
+nano README.md
+git commit -m "Changement fichier README.md"
+git add README.md
+git commit -m "Changement fichier README.md"
+git push -u origin main
+git pull origin main
+git pull origin GAM
+git config pull.rebase false
+git pull origin GAM
+git pull origin main
+ls
+nano LICENSE.md
+cd README.md
+nano README.md
+git remote -v
+git pull origin GAM
+git add/rm README.md
+git rm README.md
+git commit -m "suppression fichier README.md"
+git push -u origin main
+nano README.md
+git pull origin css
+git branch
+git commit -m "Recréation README.md"
+git push -u origin main
+ls
+git checkout main
+ls
+nano css
+nano README.md
+nano README.md
+cat README.md
+git commit --help
+git pull origin main
+git branch
+git fetch origin
+ls
+git reset --hard origin main
+git reset --hard origin/main
+git status
+git pull origin main
+git checkout HTML
+ls
+git pull origin main
+git fetch origin
+git reset --hard origin main
+git reset --hard origin/main
+ls
+nano html
+index.html
+nano index.html
+git checkout js
+ls
+nano index.js
+git add index.js
+git add index.html
+git status
+git commit -m "Ajout des fichiers finaux .html et .css"
+git push -u origin main
+ls
+git checkout html
+git checkout js
+git checkout HTML
+git pull --rebase origin main
+git fetch origin
+git reset --hard origin/main
+ls
+git checkout HTML
+ls$
+ls
+git checkout js
+ls
+git rm index.html
+git checkout HTML
+nano index.html
+git status
+git add index.html
+git commit -m "Ajout finaux fichiers .html et .js
+"
+git push -u origin main
+git push -u origin HTML
+git push -u origin js
+ls
+git push -u origin HTML
+git pull origin
+git pull origin
+git pull origin HTML
+git pull --rebase origin
+ls
+git merge --abort
+git pull origin HTML
+sudo pacman -S vi
+git pull origin HTML
+git merge --abort
+git pull origin HTML
+git merge --abort
+git fetch origin
+git clean -fd
+git pull origin
+git merge --abort
+git pull origin main
+git checkout commandes
+git checkout Commandes
+ls
+rm css
+git rm css
+git status
+git commit -m "supression fichier css dans Branche Commandes"
+git push -u origin Commandes
+git push -u origin Commandes
+git fetch Commandes
+git fetch origin Commandes
+git fetch origin HTML
+git fetch origin js
+git fetch origin css
+git fetch origin main
+git pull origin Commandes
+git checkout Commandes
+git rm css
+ls
+git pull origin commandes
+git pull origin Commandes
+git checkout mai
+git checkout main
+git pull origin main
+git branch
+git fetch origin css
+git branch
+git merge js
+git checkout main
+git --fetch all
+git pull --rebase origin main
+git status
+git getch --all
+git fetch --all
+git merge origin/main
+git merge origin/css
+git commit -m "Dernier commit"
+git push -u origin main
+git push -u origin Commandes
+git pull origin Commandes
+ls
+git rm README.md
+git rm css
+ls
+git pull origin Commandes
+git merge --abort
+git pull origin Commandes
+git status
+git add README.md
+git add css
+git status
+git pull origin Commandes
+git merge --abort
+git pull origin Commandes
+ls
+git rm css
+git rm README.md
+ls
+rm README.md
+git checkout main
+ls
+git merge HTML
+git merge HTML
+git merge css
+git merge origin/css
+git merge js
+git merge -s ours Commandes
+git checkout --theirs .
+git checkout
+git checkout --theirs
+git checkout main
+git checkout --theirs Commandes
+git checkout --theirs .
+git add .
+git commit -m "merge test"
+git status
+git checkout Commandes
+git checkout --theirs .
+git add .
+git commit -m "merge Commandes"
+git checkout main
+git merge Commandes

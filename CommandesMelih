@@ -1,0 +1,88 @@
+Commandes du 09/01/2025 de Melih
+
+   65  cd ..
+   66  ls
+   67  cd b2cs3/
+   68  ls
+   69  cd b2cs3/
+   70  ls
+   71  cd ..
+   72  ls
+   73  ip a
+   74  ping 8.8.8.8
+   75  cd ..
+   76  ls
+   77  cd b2cs3/
+   78  ls
+   79  git clone https://github.com/elgaspacho2/GAM.git
+   80  ls
+   81  cd GAM
+   82  ls
+   83  nano css
+   84  touch css
+   85  ls
+   86  nano css
+   87  git checkout -b css
+   88  git push -u origin css
+   89  ls
+   90  nano css
+   91  giy add css
+   92  git add css
+   93  cat css
+   94  git commit -m "css"
+   95  git push origin css
+   96  git add css
+   97  git config user.email "sahingozdu94@gmail.com"
+   98  git config user.name "Mlh94"
+   99  git commit -m "css"
+  100  git push origin css
+  101  ls
+  102  rm README.md
+  103  ls
+  104  git push origin css
+  105  git commit -m "css"
+  106  git push origin css
+  107  ls
+  108  nano css
+  109  git commit -m "css"
+  110  git commit -a "css"
+  111  git commit -a
+  112  git push origin css
+  113  ls
+  114  cd ..
+  115  ls
+  116  cd b2cs3/
+  117  ls
+  118  cd GAM/
+  119  ls
+  120  cat css
+  121  git push -u origin css
+  122  git config user.email "sahingozdu94@gmail.com"
+  123  git config user.name "Mlh94"
+  124  git commit -m "css"
+  125  git commit -a
+  126  git push -u origin css
+  127  git add css
+  128  git add README.md
+  129  git commit -m "css"
+  130  git push -u origin css
+  131  rm css
+  132  ls
+  133  touch css
+  134  ls
+  135  nano css
+  136  cat css
+  137  gut add css
+  138  git add css
+  139  git commit -m "css"
+  140  git push -u origin css
+  141  git push -u origin css --force
+  142  cat bash.history
+  143  history
+  144  git checkout -b Commandes
+  145  git push -u origin Commandes
+  146  ls
+  147  touch CommandesMelih
+  148  ls
+  149  nano CommandesMelih
+  150  history
